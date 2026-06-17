@@ -6,7 +6,7 @@
 
         <p>
             Book trusted private GP, paediatric, cardiology, dermatology, women's health,
-            and diagnostic appointments with CedarCare Medical Centre.
+            and diagnostic appointments Online with CedarCare Medical Centre.
         </p>
 
         <div class="hero-buttons">
